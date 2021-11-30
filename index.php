@@ -30,7 +30,7 @@
     <td>16:30</td>
   </tr>
   <tr>
-    <th>Středa</th>
+    <th>Pátek</th>
     <td>12.ZŠ Kladno</td>
     <td>16:00</td>
   </tr>
