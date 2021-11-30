@@ -38,7 +38,6 @@
 </table>
 <a href="https://www.kanonyrikladno.cz/tym/129-u13-mladsi-zaci-volnocas-09-a-10/tabulka.html" style="align-content: left">
   
-co se stane kdyz tu napisu nejakou vetu bez tvyho vedomí XDD
 
 </body>
 </html>
