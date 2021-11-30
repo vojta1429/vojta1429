@@ -37,8 +37,5 @@
   </tr>
 </table>
 <a href="https://www.kanonyrikladno.cz/tym/129-u13-mladsi-zaci-volnocas-09-a-10/tabulka.html" style="align-content: left">
-  
-ahoj jak se mas stale chces nikolu ? a co jdes o vikendu do prace? a jakse ti libí tahle zmena kodu klidne napsi odpoved do toho myho ☺☺☻☻
-  
 </body>
 </html>
