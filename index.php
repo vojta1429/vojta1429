@@ -8,6 +8,7 @@
   <body background="pozadi.gif" bgcolor="3241CZ">
     <h1 align="center">
 <hl>Dobrý den vítejte na stránkách týmu Kanonýři Kladno U13-volnočas</hl>
+<hl>Hi všichni mám vás rád</hl>
 <p>Zde se dozvíte pouze pár informací o nás zbytek se dočtete na kanonýrských stránkách a z informací od trenérů</p>
 
 
